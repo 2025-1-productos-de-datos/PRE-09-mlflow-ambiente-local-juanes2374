@@ -1,0 +1,9 @@
+name: winequality
+
+entry_points:
+  elasticnet:
+    parameters: {}
+    command: "python homework/src/elasticnet.py"
+  knn:
+    parameters: {}
+    command: "python homework/src/knn.py"
